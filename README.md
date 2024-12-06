@@ -1,6 +1,6 @@
 # phyton_project
 
-## Highest career batting Tests Analysis
+## PROJECT 1 : Highest career batting Tests Analysis
 In cricket, a batting average is an important statistic that reflects a player's consistency and performance over their career in Test matches. 
 
 ### Key Steps for Analyzing the Highest Career Batting Average in Tests:
